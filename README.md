@@ -23,6 +23,7 @@
          <li>Learn the basics of Git Bash (git init, git add ..., git commit)</li>
          <li>Learn the basics of Github (git push to Github repositories)</li>
          <li>Refresh on CSS, ES6 and JSX</li>
+         <li>Learning to put a Bar Code to the digital business card</li>
       </ol>
    </li>
    <li>Create the following with your digital business card:
