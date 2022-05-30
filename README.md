@@ -6,7 +6,7 @@
 
 <a href="https://github.com/Bvudzijena/digital-business-card/stargazers"><img src="https://img.shields.io/github/stars/Bvudzijena/digital-business-card" alt="Stars Badge"/></a>
 <a href="https://github.com/Bvudzijena/digital-business-card/network/members"><img src="https://img.shields.io/github/forks/Bvudzijena/digital-business-card" alt="Forks Badge"/></a>
-<a href="https://github.com/Bvudzijena/digital-business-card/pulls"><img src="https://img.shields.io/github/issues-pr/Bvudizjena/digital-business-card" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Bvudzijena/digital-business-card/pulls"><img src="https://img.shields.io/github/issues-pr/Bvudzijena/digital-business-card" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Bvudzijena/digital-business-card/issues"><img src="https://img.shields.io/github/issues/Bvudzijena/digital-business-card" alt="Issues Badge"/></a>
 <a href="https://github.com/Bvudzijena/digital-business-card/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Bvudzijena/digital-business-card?color=2b9348"></a>
 <a href="https://github.com/Bvudzijena/digital-business-card/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Bvudzijena/digital-business-card?color=2b9348" alt="License Badge"/></a>
