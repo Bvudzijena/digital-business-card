@@ -4,12 +4,16 @@
 <p>This is a creation of my own business card which should satify several obejectives.</p>
 <p>The design will be hosted on: "https://github.com/Bvudzijena/digitial-business-card"</p>
 <ul>
-   <li>a. It should be a practice for using React as a first mini project with these goals:</li>
+   <li>a. It should be a practice for using React as a first mini project with these goals:
+      <ol>
+         <li>(i) Learn the basics of React</li>
+      </ol>
+   </li>
    <li>b. Create the following with your digital business card:</li>
    <li>c. Minor objectives</li>
 </ul>
 
-   (i) Learn the basics of React
+   
    (ii) Learn the basics of Terminal (Powershell)
    (iii) Learn the basics of Git Bash (git init, git add ..., git commit)
    (iv) Learn the basics of Github (git push to Github repositories)
