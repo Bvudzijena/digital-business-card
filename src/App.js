@@ -1,6 +1,6 @@
 import React from "react"
 import './App.css';
-import Navpicture from "https://images.app.goo.gl/tA6KrypTD2aEVg726"
+import logo from "./images/darlington.jpeg"
 
 export default function App() {
 
@@ -8,7 +8,7 @@ export default function App() {
       return(
         <div>
           <h1>Hello, Darlington!</h1>
-          <img className="navpicture" src={Navpicture} alt={"Not sure"} />
+          <img className="navpicture" src={logo} alt={"Not sure"} />
         </div>
             )
     }
