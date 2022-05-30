@@ -1,17 +1,8 @@
 import React from "react"
 import './App.css';
-import logo from "./images/darlington.jpeg"
+import Navbar from './components/Nav'
 
 export default function App() {
-
-    const Navbar = () => {
-      return(
-        <div>
-          <h1>Hello, Darlington!</h1>
-          <img className="navpicture" src={logo} alt={"Not sure"} />
-        </div>
-            )
-    }
    
   return (
     <div className="App">

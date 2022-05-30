@@ -1,9 +1,10 @@
 import React from "react"
+import logo from "../images/darlington.jpeg"
 
 export default function Navbar() {
     return (
-        <nav>
-            <img src="../images/darlington.jpeg" alt=""/>
-        </nav>
+              <div>
+                <img className="navpicture" src={logo} alt={"Not sure"} />
+              </div>
     )
 }
