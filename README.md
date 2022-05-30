@@ -33,7 +33,7 @@
    </li>
    <li>Minor objectives
       <ol>
-         <li>Dealing or handling images rendering</li>
+         <li>Dealing or handling <a href="https://create-react-app.dev/docs/adding-images-fonts-and-files">images rendering</a></li>
          <li>Working with Figma to create workable CSS</li>
       </ol>
    </li>
