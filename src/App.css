@@ -37,4 +37,12 @@
   }
 }
 
-
+/* Navigation styling */
+.navpicture {
+  position: absolute;
+  width: 381px;
+  height: 339px;
+  left: -3px;
+  top: -89px;
+  border-radius: 25px;
+}
