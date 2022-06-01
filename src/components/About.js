@@ -6,13 +6,13 @@ export default function About() {
         <div>
             <div>
             <h3 className="sub-headings">About</h3>
-              <pre className="about-text">I am a frontend developer with a particular interest in making things simple and automating daily tasks. 
+              <p className="about-text">I am a frontend developer with a particular interest in making things simple and automating daily tasks. 
                   I try to keep up with security and best practices, and am always looking for new things to learn.
-              </pre>
+              </p>
             </div>
             <div>
               <h3 className="sub-headings">Interests</h3>
-              <pre className="about-text">Food expert.
+              <p className="about-text">Food expert.
                 Music scholar. 
                 Reader. 
                 Internet fanatic. 
@@ -21,7 +21,7 @@ export default function About() {
                 Travel geek. 
                 Pop culture ninja. 
                 Coffee fanatic.
-              </pre>
+              </p>
             </div>
             </div>
     )
