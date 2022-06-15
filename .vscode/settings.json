@@ -1,0 +1,9 @@
+{
+    "gitlens.autolinks": [],
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\cmd.exe",
+    "terminal.integrated.allowChords": false,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.automationProfile.osx": {},
+    "terminal.integrated.defaultProfile.linux": ""
+}
