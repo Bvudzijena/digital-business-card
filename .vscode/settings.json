@@ -4,6 +4,6 @@
     "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\cmd.exe",
     "terminal.integrated.allowChords": false,
     "terminal.explorerKind": "external",
-    "terminal.integrated.automationProfile.osx": {},
+    "terminal.integrated.automationProfile.osx": null,
     "terminal.integrated.defaultProfile.linux": ""
 }
